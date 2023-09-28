@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 Pascal's Triangle Generator
-This module defines a function for generation of Pascal's Triangle based on given rows.
+The module defines a func for gen of Pascal's Triangle based on given rows.
 """
 
 
@@ -35,5 +35,5 @@ def pascal_triangle(n):
 
 
 if __name__ == "__main__":
-    #Run test cases
+    # Run test cases
     pytest.main([__file__])
