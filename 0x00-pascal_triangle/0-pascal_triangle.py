@@ -35,4 +35,5 @@ def pascal_triangle(n):
 
 
 if __name__ == "__main__":
+    #Run test cases
     pytest.main([__file__])
