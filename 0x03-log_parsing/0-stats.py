@@ -51,4 +51,4 @@ try:
                 counter = 0
 
 finally:
-    print_msg(dict_sc, total_file_s
+    print_msg(dict_sc, total_file_size)
